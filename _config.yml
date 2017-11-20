@@ -76,11 +76,12 @@ theme: edinburgh
 
 #Header
 menu:
+  Home: /home
   Research: /research
   Teaching: /teaching
   Blog: /blog
   More: /more
-
+  Github: https://github.com/yi-fan-wang
 # Google Analytics Tracking ID
 google_analytics:
 
